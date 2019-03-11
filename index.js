@@ -8,3 +8,6 @@ function destructivelyAppendDriver (name){
 function destructivelyPrependDriver (name){
   drivers.unshift ('Bob');
 }
+function destructivelyPrependDriver (name){
+  drivers.unshift ('Bob');
+}
