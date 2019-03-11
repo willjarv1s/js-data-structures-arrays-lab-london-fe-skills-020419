@@ -1,3 +1,3 @@
 // Write your solution here!
 
-const driver = ["Milo", "Otis", "Garfield"]
+const drivers = ["Milo", "Otis", "Garfield"]
